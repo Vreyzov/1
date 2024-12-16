@@ -1,0 +1,17 @@
+LessorID,FirstName,LastName,Phone,Email,Login,Password
+1,John,Doe,89001234567,morozov@mail.ru,morozov,lessor123
+2,Елена,Кузнецова,89009876543,kuznecova@mail.ru,kuznecova,rent456
+3,Дмитрий,Васильев,89004567890,vasiliev@mail.ru,vasiliev,dmipass
+4,Анна,Фролова,89007654321,frolova@mail.ru,frolova,annapass
+5,Олег,Рябов,89006743210,ryabov@mail.ru,ryabov,ryabpass
+6,Монстер,Монстров,89687415266,vladimirsolovev817@gmail.com,monster,monster123
+7,Роман,Белов,89267894563,belov@mail.ru,roman_b,rom789
+8,Марина,Комарова,89165432189,komarova@mail.ru,marina_k,mar234
+9,Степан,Орлов,89257891234,orlov@mail.ru,stepan_o,step567
+10,Вера,Миронова,89091234567,mironova@mail.ru,vera_m,ver890
+11,Антон,Карпов,89165437889,karpov@mail.ru,anton_k,ant123
+12,Юлия,Медведева,89267893456,medvedeva@mail.ru,yulia_m,yul456
+13,Богдан,Соловьев,89257894567,solovev@mail.ru,bogdan_s,bog789
+14,Ирина,Котова,89165432178,kotova@mail.ru,irina_k,ir234
+15,Павел,Жуков,89091237856,zhukov@mail.ru,pavel_zh,pav567
+16,Алёна,Щербакова,89267891234,scherbakova@mail.ru,alena_sch,al890

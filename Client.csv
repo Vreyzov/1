@@ -1,0 +1,20 @@
+ClientID,FirstName,LastName,Phone,Email,Login,Password
+1,Иван,Иванов,89001112233,ivanov@mail.ru,ivanov,pass123
+2,Мария,Петрова,89004445566,petrova@mail.ru,petrova,qwerty
+3,Алексей,Смирнов,89007778899,smirnov@mail.ru,smirnov,12345678
+4,Андрей,Сергеев,89009991111,andrey@mail.ru,andrey,andrpass
+5,Ольга,Новикова,89001231234,novikova@mail.ru,novikova,olga2024
+6,Николай,Федоров,89003455678,fedorov@mail.ru,fedorov,passfed
+7,Володя,Соловушкин,,,SOLOVUSHKIN,ыщдщ123
+8,Артём,Козлов,89157834521,kozlov@mail.ru,kozlov_art,pass789
+9,Евгения,Соколова,89263457812,sokolova@mail.ru,sok_eva,eva2024
+10,Максим,Волков,89091234567,volkov@mail.ru,volkov_max,max123
+11,София,Лебедева,89165438790,lebedeva@mail.ru,sofia_leb,sof456
+12,Кирилл,Морозов,89257894561,morozov_k@mail.ru,kirill_m,kir789
+13,Дарья,Васильева,89164563278,vasileva@mail.ru,daria_vas,dar234
+14,Глеб,Никитин,89263456789,nikitin@mail.ru,gleb_nik,gleb567
+15,Полина,Зайцева,89165437890,zaiceva@mail.ru,polina_z,pol890
+16,Тимур,Григорьев,89257893456,grigorev@mail.ru,timur_g,tim123
+17,Алиса,Кузьмина,89091237890,kuzmina@mail.ru,alisa_k,ali456
+18,John,Doe,+123456789,john.doe@example.com,johndoe,password123
+23,New Client,Doe,321312312,gfdgfdg,gffffff,YourPassword123

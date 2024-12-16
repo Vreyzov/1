@@ -1,0 +1,15 @@
+EquipmentID,Name,PricePerDay,LessorID
+1,Ноутбук Dell XPS 15,1500.00,1
+2,Фотоаппарат Canon EOS R,2000.00,2
+3,Проектор Epson EB-U50,1000.00,3
+4,Электрогитара Fender Stratocaster,2500.00,1
+5,Штатив Manfrotto Compact,300.00,2
+7,Видеокамера Sony FX3,3000.00,7
+8,Квадрокоптер DJI Mavic 3,2500.00,8
+9,Микрофон Shure SM7B,800.00,9
+10,Световой прибор Aputure 600d,1800.00,10
+11,Синтезатор Roland Jupiter-X,2200.00,7
+12,3D-принтер Prusa i3 MK3S+,1500.00,8
+13,Аудиоинтерфейс Universal Audio Apollo,1200.00,9
+14,Барабанная установка Pearl Masters,2800.00,10
+16,Игровая приставка PS5,1000.00,8
